@@ -11,12 +11,17 @@
     "express": "4.13.3"
   },
   "engines": {
-    "node": "5.6.0"
+    "node": "16.x"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/wdonray/js-dev-env-demo-api"
   },
   "author": "Donray Williams",
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "license": "MIT"
 }
